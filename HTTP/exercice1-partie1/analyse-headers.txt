@@ -1,0 +1,29 @@
+General
+
+    Request URL:http://localhost/frameworkWeb/Ynov-exercices/HTTP/exercice1-partie1/
+    Request Method:GET
+    Status Code:304 Not Modified
+    Remote Address:[::1]:80
+    Referrer Policy:no-referrer-when-downgrade
+
+Response Headers
+
+    Connection:Keep-Alive
+    Date:Thu, 23 Nov 2017 13:27:29 GMT
+    ETag:"a9-55ea656fa2bab"
+    Keep-Alive:timeout=5, max=100
+    Server:Apache/2.4.23 (Win64) PHP/7.0.10
+
+
+Request Headers
+
+    Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+    Accept-Encoding:gzip, deflate, br
+    Accept-Language:fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7
+    Cache-Control:max-age=0
+    Connection:keep-alive
+    Host:localhost
+    If-Modified-Since:Thu, 23 Nov 2017 13:23:20 GMT
+    If-None-Match:"a9-55ea656fa2bab"
+    Upgrade-Insecure-Requests:1
+    User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
