@@ -1,0 +1,4 @@
+a) Dans l'onglet réseau, on constate que les images ne charge as toute en parallèle
+b) Les images sont chargées 6 par 6.
+
+c) On pourrait utiliser une technologie permettant d'envoyer une seule est unique image au chargement, et ainsi découper les images dans l'image.
