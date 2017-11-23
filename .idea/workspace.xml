@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c113b203-2b92-4238-940a-bf7f44ecb4e6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice1-partie1/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTTP/INI.txt" afterPath="$PROJECT_DIR$/HTTP/exercice1-partie1/analyse-headers.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTTP/exercice1-partie1/analyse-headers.txt" afterPath="$PROJECT_DIR$/HTTP/exercice1-partie1/analyse-headers.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,8 +26,8 @@
       <file leaf-file-name="analyse-headers.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HTTP/exercice1-partie1/analyse-headers.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="105">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -63,9 +61,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="188" />
-    <option name="y" value="5" />
-    <option name="width" value="741" />
+    <option name="x" value="593" />
+    <option name="y" value="82" />
+    <option name="width" value="1428" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -135,18 +133,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511443317160</updated>
-      <workItem from="1511443318315" duration="426000" />
+      <workItem from="1511443318315" duration="993000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="426000" />
+    <option name="totallyTimeSpent" value="993000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="188" y="5" width="741" height="1047" extended-state="0" />
+    <frame x="593" y="82" width="1428" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24965517" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12818697" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -186,8 +184,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HTTP/exercice1-partie1/analyse-headers.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -1,29 +1,29 @@
 General
 
-    Request URL:http://localhost/frameworkWeb/Ynov-exercices/HTTP/exercice1-partie1/
-    Request Method:GET
-    Status Code:304 Not Modified
-    Remote Address:[::1]:80
+    Request URL:http://localhost/frameworkWeb/Ynov-exercices/HTTP/exercice1-partie1/ -> l'URL du site
+    Request Method:GET -> la méthode GET est appellée pour demander uniquement de la ressource
+    Status Code:304 Not Modified -> Le code 304 signifie que le document n'a pas été modifié.
+    Remote Address:[::1]:80 -> ::1 indique l'adresse localhost en IPv6 avec le port 80
     Referrer Policy:no-referrer-when-downgrade
 
-Response Headers
+Response Headers -> Requête répondu
 
-    Connection:Keep-Alive
-    Date:Thu, 23 Nov 2017 13:27:29 GMT
+    Connection:Keep-Alive -> garde la connexion active
+    Date:Thu, 23 Nov 2017 13:27:29 GMT -> Date/Heure de la réponse
     ETag:"a9-55ea656fa2bab"
-    Keep-Alive:timeout=5, max=100
-    Server:Apache/2.4.23 (Win64) PHP/7.0.10
+    Keep-Alive:timeout=5, max=100 -
+    Server:Apache/2.4.23 (Win64) PHP/7.0.10 -> Indique des informations sur l'hebergement du site
 
 
-Request Headers
+Request Headers -> Requête demandée
 
     Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
-    Accept-Encoding:gzip, deflate, br
-    Accept-Language:fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7
+    Accept-Encoding:gzip, deflate, br -> définition de l'encodage
+    Accept-Language:fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7 -> encodage par priorité
     Cache-Control:max-age=0
-    Connection:keep-alive
-    Host:localhost
-    If-Modified-Since:Thu, 23 Nov 2017 13:23:20 GMT
+    Connection:keep-alive -> garde la connexion persistante
+    Host:localhost -> adresse de destination
+    If-Modified-Since:Thu, 23 Nov 2017 13:23:20 GMT -> date heure de la demande
     If-None-Match:"a9-55ea656fa2bab"
     Upgrade-Insecure-Requests:1
-    User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+    User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36 -> Indique les configurations du coté du demandeur
