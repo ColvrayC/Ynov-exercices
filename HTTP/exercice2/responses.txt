@@ -1,0 +1,5 @@
+On constate que les images sont toutes demandées en mêe temps à l'hebergeur d'image.
+
+De ce fait chaque lien au même moment attend une réponse et toutes les images se télécharge en parallèle.
+
+De plus on constate l'affichage attend le téléchargement casimeent intégrale de toute les images avant de générer un visuel.

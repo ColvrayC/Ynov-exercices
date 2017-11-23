@@ -2,10 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c113b203-2b92-4238-940a-bf7f44ecb4e6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice1-partie3/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice1-partie3/responses.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice2/images/people.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice2/images/people_002.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice2/images/people_003.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice2/images/people_004.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice2/images/people_005.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice2/images/people_006.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice2/images/people_007.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice2/images/people_008.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice2/images/people_009.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice2/images/people_010.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice2/images/people_011.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice2/images/people_012.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice2/images/people_013.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice2/images/people_014.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice2/images/people_015.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice2/images/people_016.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice2/images/people_017.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice2/images/people_018.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice2/images/people_019.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice2/images/people_020.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice2/responses.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTTP/exercice1-partie1/analyse-headers.txt" afterPath="$PROJECT_DIR$/HTTP/exercice1-partie1/analyse-headers.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/HTTP/exercice1-partie1/analyse-headers.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+              <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -46,11 +65,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="responses.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="responses.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTTP/exercice1-partie3/responses.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" column="36" lean-forward="false" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTTP/exercice2/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="responses.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HTTP/exercice2/responses.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="124" lean-forward="false" selection-start-line="4" selection-start-column="124" selection-end-line="4" selection-end-column="124" />
               <folding />
             </state>
           </provider>
@@ -75,6 +114,8 @@
         <option value="$PROJECT_DIR$/HTTP/exercice1-partie1/analyse-headers.txt" />
         <option value="$PROJECT_DIR$/HTTP/exercice1-partie3/index.html" />
         <option value="$PROJECT_DIR$/HTTP/exercice1-partie3/responses.txt" />
+        <option value="$PROJECT_DIR$/HTTP/exercice2/index.html" />
+        <option value="$PROJECT_DIR$/HTTP/exercice2/responses.txt" />
       </list>
     </option>
   </component>
@@ -86,8 +127,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="781" />
-    <option name="y" value="83" />
+    <option name="x" value="649" />
+    <option name="y" value="78" />
     <option name="width" value="1026" />
     <option name="height" value="1047" />
   </component>
@@ -123,13 +164,13 @@
               <item name="Ynov-exercices" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ynov-exercices" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="HTTP" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="exercice1-partie1" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="exercice1-partie3" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="Ynov-exercices" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ynov-exercices" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="HTTP" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="exercice1-partie3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="exercice2" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -143,6 +184,9 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\frameworkWeb\Ynov-exercices\HTTP\exercice2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\wamp64\www\frameworkWeb\Ynov-exercices\HTTP\exercice1-partie3" />
       <recent name="C:\wamp64\www\frameworkWeb\Ynov-exercices\HTTP\exercice1-partie3\images" />
@@ -170,18 +214,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511443317160</updated>
-      <workItem from="1511443318315" duration="2451000" />
+      <workItem from="1511443318315" duration="3139000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2451000" />
+    <option name="totallyTimeSpent" value="3139000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="781" y="83" width="1026" height="1047" extended-state="0" />
+    <frame x="649" y="78" width="1026" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17920792" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.280198" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -230,7 +274,7 @@
     <entry file="file://$PROJECT_DIR$/HTTP/exercice1-partie1/analyse-headers.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -239,6 +283,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="36" lean-forward="false" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP/exercice1-partie3/screenShot.PNG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP/exercice2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP/exercice2/responses.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="124" lean-forward="false" selection-start-line="4" selection-start-column="124" selection-end-line="4" selection-end-column="124" />
           <folding />
         </state>
       </provider>
